@@ -1,1 +1,6 @@
 # SDE
+
+## Summary
+1. Notebook_1: We scrap reviews for a particular app, clean the data and then perform classification tasks on it. 
+2. Notebook_2: In this, we scrapped data for 17 apps manually to prepare a new dataset on which we also tried to do classification
+3. Notebook_3: We downloaded a dataset available from the internet and performed several tasks on it.
