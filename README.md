@@ -8,5 +8,6 @@
 ## How to Run
 1. The datasets have been uploaded, download them and the notebooks.
 2. Open the notebooks in google colab, upload the downloaded file
-3. Run the notebook.
+3. `review.csv` is used in Notebook_1, `reviews.csv` is used in Notebook_2, and the rest of the csv files are used in Notebook_3.
+4. Run the notebook.
 
